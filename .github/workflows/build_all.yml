@@ -1,7 +1,7 @@
 name: Build Module
 on: push
 env:
-    # Customize the CMake build type here (Release, Debug, RelWithDebInfo, etc.)
+    # Customize the CMake build type here (Release, Debug, RelWithDebInfo, et c.)
     BUILD_TYPE: Debug
     VCPKG_BINARY_SOURCES: "clear;x-gha,readwrite"
 
